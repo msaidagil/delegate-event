@@ -1,0 +1,33 @@
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.AssemblyReference.cache
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.HasilHitung.resources
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.Perhitungan.resources
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.Properties.Resources.resources
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.GenerateResource.cache
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.CoreCompileInputs.cache
+F:\ofing\Calculator08\Calculator08\bin\Debug\Calculator08.exe.config
+F:\ofing\Calculator08\Calculator08\bin\Debug\Calculator08.exe
+F:\ofing\Calculator08\Calculator08\bin\Debug\Calculator08.pdb
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.exe
+F:\ofing\Calculator08\Calculator08\obj\Debug\Calculator08.pdb
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.AssemblyReference.cache
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.HasilHitung.resources
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.Perhitungan.resources
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.Properties.Resources.resources
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.GenerateResource.cache
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.CoreCompileInputs.cache
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.exe
+F:\ofing\bk\Calculator08\Calculator08\obj\Debug\Calculator08.pdb
+F:\ofing\bk\Calculator08\Calculator08\bin\Debug\Calculator08.exe.config
+F:\ofing\bk\Calculator08\Calculator08\bin\Debug\Calculator08.exe
+F:\ofing\bk\Calculator08\Calculator08\bin\Debug\Calculator08.pdb
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\bin\Debug\Calculator08.exe.config
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\bin\Debug\Calculator08.exe
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\bin\Debug\Calculator08.pdb
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.csprojAssemblyReference.cache
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.HasilHitung.resources
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.Perhitungan.resources
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.Properties.Resources.resources
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.GenerateResource.cache
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.CoreCompileInputs.cache
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.exe
+D:\amikom 2\pl\tugas empat\Calculator08\Calculator08\obj\Debug\Calculator08.pdb
